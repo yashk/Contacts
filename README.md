@@ -3,6 +3,7 @@ Simple Command Line Application to Manage Contacts
 
 ## Requirements
 ```
+git
 jdk 1.8
 maven 3.x
 ```
