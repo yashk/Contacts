@@ -12,7 +12,7 @@ maven 3.x
 ```
 $ git clone https://github.com/yashk/Contacts.git
 $ cd Contacts
-$ mvn test -Pmain -q
+$ mvn verify -Pmain -DskipTests=true -q
 1) Add contact 2) Search 3) Exit
 1
 Enter name:yash
@@ -24,3 +24,9 @@ yash
 3
 Happy Searching
 ```
+## Running tests
+```
+cd Contacts
+mvn test
+```
+
