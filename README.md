@@ -1,7 +1,7 @@
 # Problem statements
 
-## Search through Contacts
-Guidelines
+# Search through Contacts
+## Guidelines
 You can use any programming language to solve this. Give references for parts of code not owned by you.If you make any assumptions mention them explicitly at the beginning of your code in comments.
 ## Evaluation Criteria
 We will evaluate your code on the following points:
@@ -56,7 +56,7 @@ Submit your code as a tarball via email or link to your github repo.
 Provide clear instructions to run your program. We will exactly follow the same steps. Be succinct in this step.
 Best of Luck!
 ```
-# Contacts
+# Solution
 Simple Command Line Application to Manage Contacts
 
 ## Requirements
